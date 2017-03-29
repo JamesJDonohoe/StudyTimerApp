@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Assignment</string>
+    <string name="title_activity_add">AddActivity</string>
+    <string name="enter">Enter</string>
+    <string name="enter_study_activity">Enter Study Activity</string>
+    <string name="enter_an_activity">Enter An Activity</string>
+    <string name="main_menu">Main Menu</string>
+    <string name="_0_00_000">0:00:000</string>
+    <string name="start">Start</string>
+    <string name="stop" />
+
+    <string-array name="study_array">
+        <item>Study</item>
+        <item>Not Study</item>
+    </string-array>
+
+</resources>
